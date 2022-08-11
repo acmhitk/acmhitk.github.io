@@ -527,6 +527,12 @@ section {
   justify-content: space-between;
 }
 
+@media (max-width: 768px) {
+  .flexwrap {
+    display: block;
+    justify-content: space-between;
+  }
+}
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
